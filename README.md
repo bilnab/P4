@@ -1,12 +1,9 @@
-# P4  
- <img src="https://github.com/bilnab/P4/blob/main/img/kag.png" width="150"> <img src="https://github.com/bilnab/P4/blob/main/img/lime.jpg" width="150"> <img src="https://github.com/bilnab/P4/blob/main/img/shap.png" width="150">  
- <img src="https://github.com/bilnab/P4/blob/main/img/pandas.png" width="150"> <img src="https://github.com/bilnab/P4/blob/main/img/seaborn.png" width="150"> <img src="https://github.com/bilnab/P4/blob/main/img/sk.png" width="150"> <img src="https://github.com/bilnab/P4/blob/main/img/scipy.png" width="150"> <img src="https://github.com/bilnab/P4/blob/main/img/statsmodel.png" width="150">  
- 
- 
-**Projet de modélisation supervisée - SCORING**  
-  
-**Bon ou mauvais Payeur?** :    
-Ce projet provient à l'origine d'une compétion Kaggle dont le but était de sélectionner le meilleur modèle de scoring pour sa clientèle
+# P4 : Projet de modélisation supervisée - SCORING  
+ <img src="/img/kag.png" width="150"> <img src="/img/lime.jpg" width="150"> <img src="/img/shap.png" width="150">  
+ <img src="/img/pandas.png" width="150"> <img src="/img/seaborn.png" width="150"> <img src="/img/sk.png" width="150"> <img src="/img/scipy.png" width="150"> <img src="/img/statsmodel.png" width="150">  
+   
+## Bon ou mauvais Payeur?:
+Ce projet provient à l'origine d'une compétion Kaggle dont le but était de sélectionner le meilleur modèle de scoring pour sa clientèle  
 
 L'enjeu est de developper un modèle de scoring:   
 * pour aider à décider si un prêt peut être accordé à un client ou non  
@@ -24,8 +21,8 @@ Ressources utiles sur l'interprétabilité en python:
 [lien 5](https://coderzcolumn.com/tutorials/machine-learning/how-to-use-lime-to-understand-sklearn-models-predictions)  
 
 ## Script   
-[un notebook commenté d'analyse descriptive](https://github.com/bilnab/P4/blob/main/P4%20analyse%20descriptive.ipynb)  
-[un notebook commenté de modélisation](https://github.com/bilnab/P4/blob/main/P4%20modelisation.ipynb):  
+[un notebook commenté d'analyse descriptive](/P4%20analyse%20descriptive.ipynb)  
+[un notebook commenté de modélisation](/P4%20modelisation.ipynb):  
 * qui transforme et construit de nouvelles variables  
 * qui met en oeuvre un certains nombre de taches de preprocessing comme:  
   * l'undersampling  
@@ -42,5 +39,5 @@ Ressources utiles sur l'interprétabilité en python:
 * qui évalue et interprète les performances d'un modèle supervisé classique  
  
 ## Présentation PDF:  
-[pdf complet](https://github.com/bilnab/P4/blob/main/P4.pdf)  
-<img src="https://github.com/bilnab/P4/blob/main/img/P4%20pres.png" height="300">
+[pdf complet](/P4.pdf)  
+<img src="/img/P4%20pres.png" height="300">
